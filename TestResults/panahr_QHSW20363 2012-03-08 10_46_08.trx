@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="af3f5f91-2bf7-45ba-926a-f2b4ac281890" name="panahr@QHSW20363 2012-03-08 10:46:08" runUser="B2B\panahr" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="eee881b2-76e0-4fc3-98c0-55e16c4933d2">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="panahr_QHSW20363 2012-03-08 10_46_08">
+      <DeploymentItem filename="C:\Users\panahr\Documents\Visual Studio 2010\Projects\FluentMongo\FluentMongo.Repositories\bin\Debug\FluentMongo.Repositories.dll" />
+      <DeploymentItem filename="c:\users\panahr\documents\visual studio 2010\Projects\FluentMongo\FluentMongo.Extensions\bin\Debug\FluentMongo.Extensions.dll" />
+      <DeploymentItem filename="c:\users\panahr\documents\visual studio 2010\Projects\FluentMongo\FleuntMongo.Mapping\bin\Debug\FleuntMongo.Mapping.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-03-08T10:46:08.5850468+00:00" queuing="2012-03-08T10:46:09.0480931+00:00" start="2012-03-08T10:46:09.0970980+00:00" finish="2012-03-08T10:46:09.5021385+00:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="GetConnection_Creates_A_Connection_For_The_Specified_Type" storage="c:\users\panahr\documents\visual studio 2010\projects\fluentmongo\fluentmongo.test\bin\debug\fluentmongo.test.dll" id="a105131f-461b-0587-77f9-dfdde994a832">
+      <Execution id="6dd47a17-2b58-46c2-a4f4-f0476d496b6e" />
+      <TestMethod codeBase="C:/Users/panahr/Documents/Visual Studio 2010/Projects/FluentMongo/FluentMongo.Test/bin/Debug/FluentMongo.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="FluentMongo.Test.ConnectionFactoryTests, FluentMongo.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetConnection_Creates_A_Connection_For_The_Specified_Type" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="a105131f-461b-0587-77f9-dfdde994a832" executionId="6dd47a17-2b58-46c2-a4f4-f0476d496b6e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="6dd47a17-2b58-46c2-a4f4-f0476d496b6e" testId="a105131f-461b-0587-77f9-dfdde994a832" testName="GetConnection_Creates_A_Connection_For_The_Specified_Type" computerName="QHSW20363" duration="00:00:00.0201653" startTime="2012-03-08T10:46:09.1391022+00:00" endTime="2012-03-08T10:46:09.4441327+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6dd47a17-2b58-46c2-a4f4-f0476d496b6e">
+    </UnitTestResult>
+  </Results>
+</TestRun>

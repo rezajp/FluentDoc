@@ -1,0 +1,11 @@
+c:\users\panahr\documents\visual studio 2010\Projects\FluentMongo\FluentMongo.Test\obj\Debug\ResolveAssemblyReference.cache
+c:\users\panahr\documents\visual studio 2010\Projects\FluentMongo\FluentMongo.Test\bin\Debug\FluentMongo.Test.dll
+c:\users\panahr\documents\visual studio 2010\Projects\FluentMongo\FluentMongo.Test\bin\Debug\FluentMongo.Test.pdb
+c:\users\panahr\documents\visual studio 2010\Projects\FluentMongo\FluentMongo.Test\bin\Debug\FleuntMongo.Mapping.dll
+c:\users\panahr\documents\visual studio 2010\Projects\FluentMongo\FluentMongo.Test\bin\Debug\FleuntMongo.Mapping.pdb
+c:\users\panahr\documents\visual studio 2010\Projects\FluentMongo\FluentMongo.Test\obj\Debug\FluentMongo.Test.dll
+c:\users\panahr\documents\visual studio 2010\Projects\FluentMongo\FluentMongo.Test\obj\Debug\FluentMongo.Test.pdb
+c:\users\panahr\documents\visual studio 2010\Projects\FluentMongo\FluentMongo.Test\bin\Debug\FluentMongo.Extensions.dll
+c:\users\panahr\documents\visual studio 2010\Projects\FluentMongo\FluentMongo.Test\bin\Debug\FluentMongo.Extensions.pdb
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\FluentMongo\FluentMongo.Test\bin\Debug\FluentMongo.Repositories.dll
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\FluentMongo\FluentMongo.Test\bin\Debug\FluentMongo.Repositories.pdb

@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="2f09575b-89b1-45bb-8e89-7889cbd22635" name="panahr@QHSW20363 2012-03-08 14:01:17" runUser="B2B\panahr" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="eee881b2-76e0-4fc3-98c0-55e16c4933d2">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="panahr_QHSW20363 2012-03-08 14_01_17">
+      <DeploymentItem filename="C:\Users\panahr\Documents\Visual Studio 2010\Projects\FluentMongo\FluentMongo.Repositories\bin\Debug\FluentMongo.Repositories.dll" />
+      <DeploymentItem filename="c:\users\panahr\documents\visual studio 2010\Projects\FluentMongo\FluentMongo.Extensions\bin\Debug\FluentMongo.Extensions.dll" />
+      <DeploymentItem filename="c:\users\panahr\documents\visual studio 2010\Projects\FluentMongo\FleuntMongo.Mapping\bin\Debug\FleuntMongo.Mapping.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-03-08T14:01:17.7529922+00:00" queuing="2012-03-08T14:01:18.4110580+00:00" start="2012-03-08T14:01:21.1103279+00:00" finish="2012-03-08T14:01:24.3656534+00:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="8" executed="8" passed="8" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="When_Referenced_It_Is_Added_To_Reference_Fields" storage="c:\users\panahr\documents\visual studio 2010\projects\fluentmongo\fluentmongo.test\bin\debug\fluentmongo.test.dll" id="b203a904-3d27-fff4-c50f-b670b079490c">
+      <Execution id="dab367eb-377a-46ab-9713-d59141d1a4fd" />
+      <TestMethod codeBase="C:/Users/panahr/Documents/Visual Studio 2010/Projects/FluentMongo/FluentMongo.Test/bin/Debug/FluentMongo.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="FluentMongo.Test.DocumentMapTests, FluentMongo.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="When_Referenced_It_Is_Added_To_Reference_Fields" />
+    </UnitTest>
+    <UnitTest name="GetConnection_Creates_A_Connection_For_The_Specified_Type" storage="c:\users\panahr\documents\visual studio 2010\projects\fluentmongo\fluentmongo.test\bin\debug\fluentmongo.test.dll" id="a105131f-461b-0587-77f9-dfdde994a832">
+      <Execution id="107b2103-a301-4d22-9285-08ec05dd3423" />
+      <TestMethod codeBase="C:/Users/panahr/Documents/Visual Studio 2010/Projects/FluentMongo/FluentMongo.Test/bin/Debug/FluentMongo.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="FluentMongo.Test.ConnectionFactoryTests, FluentMongo.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetConnection_Creates_A_Connection_For_The_Specified_Type" />
+    </UnitTest>
+    <UnitTest name="When_Given_A_NonPrimitive_Id_Type_Throws_Exception" storage="c:\users\panahr\documents\visual studio 2010\projects\fluentmongo\fluentmongo.test\bin\debug\fluentmongo.test.dll" id="3c2d75ca-58f8-61e9-d614-f853a1b56ae3">
+      <Execution id="e2a602a7-a018-4f8d-9487-92a58c3d3dc8" />
+      <TestMethod codeBase="C:/Users/panahr/Documents/Visual Studio 2010/Projects/FluentMongo/FluentMongo.Test/bin/Debug/FluentMongo.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="FluentMongo.Test.DocumentMapTests, FluentMongo.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="When_Given_A_NonPrimitive_Id_Type_Throws_Exception" />
+    </UnitTest>
+    <UnitTest name="TestMethod1" storage="c:\users\panahr\documents\visual studio 2010\projects\fluentmongo\fluentmongo.test\bin\debug\fluentmongo.test.dll" id="7ff8e459-4b93-2e7a-fa9d-78214421d040">
+      <Execution id="b1ffded1-bb89-4b89-9c70-b243b34c5636" />
+      <TestMethod codeBase="C:/Users/panahr/Documents/Visual Studio 2010/Projects/FluentMongo/FluentMongo.Test/bin/Debug/FluentMongo.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="FluentMongo.Test.ConnectionTests, FluentMongo.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+    <UnitTest name="When_Set_Mapped_Fields_It_Is_Added_To_Primitive_Fields" storage="c:\users\panahr\documents\visual studio 2010\projects\fluentmongo\fluentmongo.test\bin\debug\fluentmongo.test.dll" id="4ab51bf8-ab51-d78d-95ed-b0a6c74a80fe">
+      <Execution id="153bdfa1-6090-4e77-8bd9-f185613749ba" />
+      <TestMethod codeBase="C:/Users/panahr/Documents/Visual Studio 2010/Projects/FluentMongo/FluentMongo.Test/bin/Debug/FluentMongo.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="FluentMongo.Test.DocumentMapTests, FluentMongo.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="When_Set_Mapped_Fields_It_Is_Added_To_Primitive_Fields" />
+    </UnitTest>
+    <UnitTest name="When_Set_IdField_It_Is_Set_As_Primary_Key" storage="c:\users\panahr\documents\visual studio 2010\projects\fluentmongo\fluentmongo.test\bin\debug\fluentmongo.test.dll" id="e97fe702-d302-76ad-921c-551a1ff5a989">
+      <Execution id="7c35fc4d-3b35-4410-b947-3bcd549274d3" />
+      <TestMethod codeBase="C:/Users/panahr/Documents/Visual Studio 2010/Projects/FluentMongo/FluentMongo.Test/bin/Debug/FluentMongo.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="FluentMongo.Test.DocumentMapTests, FluentMongo.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="When_Set_IdField_It_Is_Set_As_Primary_Key" />
+    </UnitTest>
+    <UnitTest name="Make_Sure_DocumentMap_Is_Added_When_Calling_AddMap" storage="c:\users\panahr\documents\visual studio 2010\projects\fluentmongo\fluentmongo.test\bin\debug\fluentmongo.test.dll" id="80389896-270f-fd93-a154-b8497c297eb9">
+      <Execution id="3ae20b78-d0c1-4292-8be7-d720eef3f73f" />
+      <TestMethod codeBase="C:/Users/panahr/Documents/Visual Studio 2010/Projects/FluentMongo/FluentMongo.Test/bin/Debug/FluentMongo.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="FluentMongo.Test.ConnectionFactoryTests, FluentMongo.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Make_Sure_DocumentMap_Is_Added_When_Calling_AddMap" />
+    </UnitTest>
+    <UnitTest name="SetMember_Sets_The_MemberInfo" storage="c:\users\panahr\documents\visual studio 2010\projects\fluentmongo\fluentmongo.test\bin\debug\fluentmongo.test.dll" id="ab445129-0e85-b168-ebfe-188ca3cdfc25">
+      <Execution id="5cc370ea-01ad-4cc0-a5be-83d0c35af2bf" />
+      <TestMethod codeBase="C:/Users/panahr/Documents/Visual Studio 2010/Projects/FluentMongo/FluentMongo.Test/bin/Debug/FluentMongo.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="FluentMongo.Test.FieldWrapperTests, FluentMongo.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SetMember_Sets_The_MemberInfo" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="3c2d75ca-58f8-61e9-d614-f853a1b56ae3" executionId="e2a602a7-a018-4f8d-9487-92a58c3d3dc8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4ab51bf8-ab51-d78d-95ed-b0a6c74a80fe" executionId="153bdfa1-6090-4e77-8bd9-f185613749ba" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7ff8e459-4b93-2e7a-fa9d-78214421d040" executionId="b1ffded1-bb89-4b89-9c70-b243b34c5636" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="80389896-270f-fd93-a154-b8497c297eb9" executionId="3ae20b78-d0c1-4292-8be7-d720eef3f73f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a105131f-461b-0587-77f9-dfdde994a832" executionId="107b2103-a301-4d22-9285-08ec05dd3423" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ab445129-0e85-b168-ebfe-188ca3cdfc25" executionId="5cc370ea-01ad-4cc0-a5be-83d0c35af2bf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b203a904-3d27-fff4-c50f-b670b079490c" executionId="dab367eb-377a-46ab-9713-d59141d1a4fd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e97fe702-d302-76ad-921c-551a1ff5a989" executionId="7c35fc4d-3b35-4410-b947-3bcd549274d3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="e2a602a7-a018-4f8d-9487-92a58c3d3dc8" testId="3c2d75ca-58f8-61e9-d614-f853a1b56ae3" testName="When_Given_A_NonPrimitive_Id_Type_Throws_Exception" computerName="QHSW20363" duration="00:00:00.1298327" startTime="2012-03-08T14:01:22.1484317+00:00" endTime="2012-03-08T14:01:23.7655934+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e2a602a7-a018-4f8d-9487-92a58c3d3dc8">
+    </UnitTestResult>
+    <UnitTestResult executionId="153bdfa1-6090-4e77-8bd9-f185613749ba" testId="4ab51bf8-ab51-d78d-95ed-b0a6c74a80fe" testName="When_Set_Mapped_Fields_It_Is_Added_To_Primitive_Fields" computerName="QHSW20363" duration="00:00:00.0488447" startTime="2012-03-08T14:01:23.8326001+00:00" endTime="2012-03-08T14:01:23.9016070+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="153bdfa1-6090-4e77-8bd9-f185613749ba">
+    </UnitTestResult>
+    <UnitTestResult executionId="b1ffded1-bb89-4b89-9c70-b243b34c5636" testId="7ff8e459-4b93-2e7a-fa9d-78214421d040" testName="TestMethod1" computerName="QHSW20363" duration="00:00:00.0002251" startTime="2012-03-08T14:01:23.9526121+00:00" endTime="2012-03-08T14:01:23.9566125+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b1ffded1-bb89-4b89-9c70-b243b34c5636">
+    </UnitTestResult>
+    <UnitTestResult executionId="3ae20b78-d0c1-4292-8be7-d720eef3f73f" testId="80389896-270f-fd93-a154-b8497c297eb9" testName="Make_Sure_DocumentMap_Is_Added_When_Calling_AddMap" computerName="QHSW20363" duration="00:00:00.0039074" startTime="2012-03-08T14:01:24.0426211+00:00" endTime="2012-03-08T14:01:24.0506219+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3ae20b78-d0c1-4292-8be7-d720eef3f73f">
+    </UnitTestResult>
+    <UnitTestResult executionId="107b2103-a301-4d22-9285-08ec05dd3423" testId="a105131f-461b-0587-77f9-dfdde994a832" testName="GetConnection_Creates_A_Connection_For_The_Specified_Type" computerName="QHSW20363" duration="00:00:00.0023617" startTime="2012-03-08T14:01:24.0976266+00:00" endTime="2012-03-08T14:01:24.1026271+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="107b2103-a301-4d22-9285-08ec05dd3423">
+    </UnitTestResult>
+    <UnitTestResult executionId="5cc370ea-01ad-4cc0-a5be-83d0c35af2bf" testId="ab445129-0e85-b168-ebfe-188ca3cdfc25" testName="SetMember_Sets_The_MemberInfo" computerName="QHSW20363" duration="00:00:00.0005184" startTime="2012-03-08T14:01:24.1266295+00:00" endTime="2012-03-08T14:01:24.1426311+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5cc370ea-01ad-4cc0-a5be-83d0c35af2bf">
+    </UnitTestResult>
+    <UnitTestResult executionId="dab367eb-377a-46ab-9713-d59141d1a4fd" testId="b203a904-3d27-fff4-c50f-b670b079490c" testName="When_Referenced_It_Is_Added_To_Reference_Fields" computerName="QHSW20363" duration="00:00:00.0006634" startTime="2012-03-08T14:01:24.1686337+00:00" endTime="2012-03-08T14:01:24.1726341+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dab367eb-377a-46ab-9713-d59141d1a4fd">
+    </UnitTestResult>
+    <UnitTestResult executionId="7c35fc4d-3b35-4410-b947-3bcd549274d3" testId="e97fe702-d302-76ad-921c-551a1ff5a989" testName="When_Set_IdField_It_Is_Set_As_Primary_Key" computerName="QHSW20363" duration="00:00:00.0005201" startTime="2012-03-08T14:01:24.2056374+00:00" endTime="2012-03-08T14:01:24.2086377+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7c35fc4d-3b35-4410-b947-3bcd549274d3">
+    </UnitTestResult>
+  </Results>
+</TestRun>
