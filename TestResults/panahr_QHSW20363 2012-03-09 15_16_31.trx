@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="b52e3ecd-f030-402c-ab62-06802a045819" name="panahr@QHSW20363 2012-03-09 15:16:31" runUser="B2B\panahr" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="eee881b2-76e0-4fc3-98c0-55e16c4933d2">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="panahr_QHSW20363 2012-03-09 15_16_31">
+      <DeploymentItem filename="C:\Users\panahr\Documents\Visual Studio 2010\Projects\FluentMongo\FluentMongo.Extensions\bin\Debug\FluentMongo.Extensions.dll" />
+      <DeploymentItem filename="C:\Users\panahr\Documents\Visual Studio 2010\Projects\FluentMongo\FluentMongo.Repositories\bin\Debug\FluentMongo.Repositories.dll" />
+      <DeploymentItem filename="C:\Users\panahr\Documents\Visual Studio 2010\Projects\FluentMongo\FleuntMongo.Mapping\bin\Debug\FleuntMongo.Mapping.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-03-09T15:16:31.1046317+00:00" queuing="2012-03-09T15:16:31.1476360+00:00" start="2012-03-09T15:16:31.1646377+00:00" finish="2012-03-09T15:16:32.3117524+00:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Save_Adds_Entity_To_Collection" storage="c:\users\panahr\documents\visual studio 2010\projects\fluentmongo\fluentmongo.test\bin\debug\fluentmongo.test.dll" id="077b78cd-3dbe-57e0-d6b0-65e0865539e8">
+      <Execution id="59d6d434-b168-4e01-a1fe-8f5bf463751a" />
+      <TestMethod codeBase="C:/Users/panahr/Documents/Visual Studio 2010/Projects/FluentMongo/FluentMongo.Test/bin/Debug/FluentMongo.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="FluentMongo.Test.ConnectionTests, FluentMongo.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Save_Adds_Entity_To_Collection" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="077b78cd-3dbe-57e0-d6b0-65e0865539e8" executionId="59d6d434-b168-4e01-a1fe-8f5bf463751a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="59d6d434-b168-4e01-a1fe-8f5bf463751a" testId="077b78cd-3dbe-57e0-d6b0-65e0865539e8" testName="Save_Adds_Entity_To_Collection" computerName="QHSW20363" duration="00:00:00.0518306" startTime="2012-03-09T15:16:31.3386551+00:00" endTime="2012-03-09T15:16:31.7016914+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="59d6d434-b168-4e01-a1fe-8f5bf463751a">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method FluentMongo.Test.ConnectionTests.Save_Adds_Entity_To_Collection threw exception: 
+System.NotImplementedException: The method or operation is not implemented.</Message>
+          <StackTrace>    at FluentMongo.Repositories.ConnectionFactory.GetMappers[T]() in C:\Users\panahr\Documents\Visual Studio 2010\Projects\FluentMongo\FluentMongo.Repositories\ConnectionFactory.cs:line 36
+   at FluentMongo.Repositories.Connection.GetMapper[T]() in C:\Users\panahr\Documents\Visual Studio 2010\Projects\FluentMongo\FluentMongo.Repositories\Connection.cs:line 49
+   at FluentMongo.Repositories.Connection.Save[T](T entity) in C:\Users\panahr\Documents\Visual Studio 2010\Projects\FluentMongo\FluentMongo.Repositories\Connection.cs:line 36
+   at FluentMongo.Test.ConnectionTests.Save_Adds_Entity_To_Collection() in C:\Users\panahr\Documents\Visual Studio 2010\Projects\FluentMongo\FluentMongo.Test\ConnectionTests.cs:line 19
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

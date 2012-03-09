@@ -1,0 +1,7 @@
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\FluentDoc\FluentDoc.Mapping\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\FluentDoc\FluentDoc.Mapping\bin\Debug\FluentDoc.Mapping.dll
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\FluentDoc\FluentDoc.Mapping\bin\Debug\FluentDoc.Mapping.pdb
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\FluentDoc\FluentDoc.Mapping\obj\Debug\FluentDoc.Mapping.dll
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\FluentDoc\FluentDoc.Mapping\obj\Debug\FluentDoc.Mapping.pdb
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\FluentDoc\FluentDoc.Mapping\bin\Debug\FluentDoc.Extensions.dll
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\FluentDoc\FluentDoc.Mapping\bin\Debug\FluentDoc.Extensions.pdb

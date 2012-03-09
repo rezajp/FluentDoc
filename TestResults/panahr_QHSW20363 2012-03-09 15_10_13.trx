@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="abe60897-048b-4851-9291-b8608a8ef311" name="panahr@QHSW20363 2012-03-09 15:10:13" runUser="B2B\panahr" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="eee881b2-76e0-4fc3-98c0-55e16c4933d2">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="panahr_QHSW20363 2012-03-09 15_10_13">
+      <DeploymentItem filename="C:\Users\panahr\Documents\Visual Studio 2010\Projects\FluentMongo\FluentMongo.Extensions\bin\Debug\FluentMongo.Extensions.dll" />
+      <DeploymentItem filename="C:\Users\panahr\Documents\Visual Studio 2010\Projects\FluentMongo\FluentMongo.Repositories\bin\Debug\FluentMongo.Repositories.dll" />
+      <DeploymentItem filename="C:\Users\panahr\Documents\Visual Studio 2010\Projects\FluentMongo\FleuntMongo.Mapping\bin\Debug\FleuntMongo.Mapping.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-03-09T15:10:13.7699020+00:00" queuing="2012-03-09T15:10:19.2044454+00:00" start="2012-03-09T15:10:19.3794629+00:00" finish="2012-03-09T15:10:20.1475397+00:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="c:\users\panahr\documents\visual studio 2010\projects\fluentmongo\fluentmongo.test\bin\debug\fluentmongo.test.dll" id="7ff8e459-4b93-2e7a-fa9d-78214421d040">
+      <Execution id="407bb9dd-1b3f-482d-90b9-7b0ffb39babd" />
+      <TestMethod codeBase="C:/Users/panahr/Documents/Visual Studio 2010/Projects/FluentMongo/FluentMongo.Test/bin/Debug/FluentMongo.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="FluentMongo.Test.ConnectionTests, FluentMongo.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="7ff8e459-4b93-2e7a-fa9d-78214421d040" executionId="407bb9dd-1b3f-482d-90b9-7b0ffb39babd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="407bb9dd-1b3f-482d-90b9-7b0ffb39babd" testId="7ff8e459-4b93-2e7a-fa9d-78214421d040" testName="TestMethod1" computerName="QHSW20363" duration="00:00:00.0114002" startTime="2012-03-09T15:10:19.5194769+00:00" endTime="2012-03-09T15:10:20.0405290+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="407bb9dd-1b3f-482d-90b9-7b0ffb39babd">
+    </UnitTestResult>
+  </Results>
+</TestRun>

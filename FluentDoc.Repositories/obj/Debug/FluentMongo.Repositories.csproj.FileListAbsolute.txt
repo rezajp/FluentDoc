@@ -1,0 +1,9 @@
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\FluentMongo\FluentMongo.Repositories\bin\Debug\FluentMongo.Repositories.dll
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\FluentMongo\FluentMongo.Repositories\bin\Debug\FluentMongo.Repositories.pdb
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\FluentMongo\FluentMongo.Repositories\bin\Debug\FleuntMongo.Mapping.dll
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\FluentMongo\FluentMongo.Repositories\bin\Debug\FluentMongo.Extensions.dll
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\FluentMongo\FluentMongo.Repositories\bin\Debug\FleuntMongo.Mapping.pdb
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\FluentMongo\FluentMongo.Repositories\bin\Debug\FluentMongo.Extensions.pdb
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\FluentMongo\FluentMongo.Repositories\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\FluentMongo\FluentMongo.Repositories\obj\Debug\FluentMongo.Repositories.dll
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\FluentMongo\FluentMongo.Repositories\obj\Debug\FluentMongo.Repositories.pdb

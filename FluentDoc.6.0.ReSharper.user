@@ -1,0 +1,240 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="101E218D-B66E-4DFB-83FE-79FDEA84EF9B/f:FieldWrapperTests.cs" caret="589" fromTop="21" />
+      <File id="101E218D-B66E-4DFB-83FE-79FDEA84EF9B/f:OrderMap.cs" caret="295" fromTop="13" />
+      <File id="101E218D-B66E-4DFB-83FE-79FDEA84EF9B/f:Order.cs" caret="263" fromTop="13" />
+      <File id="FBA3DA01-803C-4E98-AAF0-B7B6277C6AA2/f:ReflectionExtensions.cs" caret="362" fromTop="10" />
+      <File id="ED6A369E-8B18-4FC9-BE85-57CAEA8BDD8F/f:FieldWrapper.cs" caret="359" fromTop="12" />
+      <File id="ED6A369E-8B18-4FC9-BE85-57CAEA8BDD8F/f:DocumentMap.cs" caret="815" fromTop="17" />
+      <File id="101E218D-B66E-4DFB-83FE-79FDEA84EF9B/f:DocumentMapTests.cs" caret="1817" fromTop="27" />
+      <File id="101E218D-B66E-4DFB-83FE-79FDEA84EF9B/f:ConnectionFactoryTests.cs" caret="1252" fromTop="18" />
+      <File id="101E218D-B66E-4DFB-83FE-79FDEA84EF9B/f:Customer.cs" caret="201" fromTop="10" />
+      <File id="8B0835BA-7920-444C-B092-0D2B13326B9B/f:ConnectionFactory.cs" caret="294" fromTop="0" />
+      <File id="101E218D-B66E-4DFB-83FE-79FDEA84EF9B/f:ConnectionTests.cs" caret="685" fromTop="19" />
+      <File id="8B0835BA-7920-444C-B092-0D2B13326B9B/f:IDatabase.cs" caret="0" fromTop="0" />
+      <File id="8B0835BA-7920-444C-B092-0D2B13326B9B/f:Database.cs" caret="178" fromTop="10" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="FBA3DA01-803C-4E98-AAF0-B7B6277C6AA2/f:ReflectionExtensions.cs" caret="362" fromTop="10" />
+      <File id="ED6A369E-8B18-4FC9-BE85-57CAEA8BDD8F/f:DocumentMap.cs" caret="1386" fromTop="7" />
+      <File id="ED6A369E-8B18-4FC9-BE85-57CAEA8BDD8F/f:DocumentMap.cs" caret="1856" fromTop="23" />
+      <File id="ED6A369E-8B18-4FC9-BE85-57CAEA8BDD8F/f:DocumentMap.cs" caret="1649" fromTop="23" />
+      <File id="101E218D-B66E-4DFB-83FE-79FDEA84EF9B/f:ConnectionFactoryTests.cs" caret="1420" fromTop="28" />
+      <File id="8B0835BA-7920-444C-B092-0D2B13326B9B/f:ConnectionFactory.cs" caret="753" fromTop="13" />
+      <File id="8B0835BA-7920-444C-B092-0D2B13326B9B/f:ConnectionFactory.cs" caret="451" fromTop="11" />
+      <File id="101E218D-B66E-4DFB-83FE-79FDEA84EF9B/f:ConnectionFactoryTests.cs" caret="1271" fromTop="22" />
+      <File id="101E218D-B66E-4DFB-83FE-79FDEA84EF9B/f:OrderMap.cs" caret="347" fromTop="14" />
+      <File id="101E218D-B66E-4DFB-83FE-79FDEA84EF9B/f:OrderMap.cs" caret="370" fromTop="13" />
+      <File id="101E218D-B66E-4DFB-83FE-79FDEA84EF9B/f:Order.cs" caret="252" fromTop="13" />
+      <File id="8B0835BA-7920-444C-B092-0D2B13326B9B/f:ConnectionFactory.cs" caret="905" fromTop="12" />
+      <File id="8B0835BA-7920-444C-B092-0D2B13326B9B/f:ConnectionFactory.cs" caret="1284" fromTop="16" />
+      <File id="8B0835BA-7920-444C-B092-0D2B13326B9B/f:ConnectionFactory.cs" caret="1284" fromTop="9" />
+      <File id="101E218D-B66E-4DFB-83FE-79FDEA84EF9B/f:ConnectionFactoryTests.cs" caret="1055" fromTop="8" />
+      <File id="ED6A369E-8B18-4FC9-BE85-57CAEA8BDD8F/f:DocumentMap.cs" caret="598" fromTop="12" />
+      <File id="ED6A369E-8B18-4FC9-BE85-57CAEA8BDD8F/f:DocumentMap.cs" caret="345" fromTop="4" />
+      <File id="ED6A369E-8B18-4FC9-BE85-57CAEA8BDD8F/f:DocumentMap.cs" caret="696" fromTop="12" />
+      <File id="ED6A369E-8B18-4FC9-BE85-57CAEA8BDD8F/f:DocumentMap.cs" caret="815" fromTop="17" />
+      <File id="101E218D-B66E-4DFB-83FE-79FDEA84EF9B/f:DocumentMapTests.cs" caret="1395" fromTop="18" />
+      <File id="101E218D-B66E-4DFB-83FE-79FDEA84EF9B/f:DocumentMapTests.cs" caret="1817" fromTop="27" />
+      <File id="8B0835BA-7920-444C-B092-0D2B13326B9B/f:ConnectionFactory.cs" caret="1858" fromTop="16" />
+      <File id="101E218D-B66E-4DFB-83FE-79FDEA84EF9B/f:ConnectionFactoryTests.cs" caret="1252" fromTop="18" />
+      <File id="101E218D-B66E-4DFB-83FE-79FDEA84EF9B/f:ConnectionTests.cs" caret="847" fromTop="22" />
+      <File id="8B0835BA-7920-444C-B092-0D2B13326B9B/f:ConnectionFactory.cs" caret="2007" fromTop="22" />
+      <File id="101E218D-B66E-4DFB-83FE-79FDEA84EF9B/f:ConnectionTests.cs" caret="685" fromTop="19" />
+      <File id="8B0835BA-7920-444C-B092-0D2B13326B9B/f:ConnectionFactory.cs" caret="2299" fromTop="25" />
+      <File id="8B0835BA-7920-444C-B092-0D2B13326B9B/f:ConnectionFactory.cs" caret="2181" fromTop="21" />
+      <File id="8B0835BA-7920-444C-B092-0D2B13326B9B/f:ConnectionFactory.cs" caret="294" fromTop="0" />
+      <File id="8B0835BA-7920-444C-B092-0D2B13326B9B/f:Database.cs" caret="159" fromTop="6" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="var" priority="415" />
+      <Item value="new" priority="799" />
+      <Item value="fieldWrapper" priority="63" />
+      <Item value="Assert`0" priority="319" />
+      <Item value="public" priority="511" />
+      <Item value="FieldWrapper`0" priority="189" />
+      <Item value="memberInfo" priority="64" />
+      <Item value="protected" priority="96" />
+      <Item value="MemberInfo`0" priority="62" />
+      <Item value="prop" priority="223" />
+      <Item value="return" priority="319" />
+      <Item value="this" priority="159" />
+      <Item value="string" priority="219" />
+      <Item value="Member" priority="63" />
+      <Item value="internal" priority="30" />
+      <Item value="class" priority="253" />
+      <Item value="Customer`0" priority="507" />
+      <Item value="customer" priority="193" />
+      <Item value="Customer" priority="86" />
+      <Item value="TestMethod" priority="159" />
+      <Item value="void" priority="190" />
+      <Item value="FieldWrapper" priority="86" />
+      <Item value="where" priority="31" />
+      <Item value="T`0" priority="125" />
+      <Item value="expression" priority="31" />
+      <Item value="System" priority="31" />
+      <Item value="c" priority="191" />
+      <Item value="typeof" priority="287" />
+      <Item value="Type`0" priority="381" />
+      <Item value="DocumentMap&lt;Customer&gt;" priority="28" />
+      <Item value="customerMap" priority="255" />
+      <Item value="DocumentMap" priority="220" />
+      <Item value="BinaryExpression`0" priority="32" />
+      <Item value="if" priority="159" />
+      <Item value="field" priority="159" />
+      <Item value="throw" priority="63" />
+      <Item value="Exception" priority="28" />
+      <Item value="NotSupportedException" priority="29" />
+      <Item value="IdWrapper" priority="31" />
+      <Item value="int" priority="61" />
+      <Item value="ExpectedException" priority="31" />
+      <Item value="orderMap" priority="127" />
+      <Item value="ListInitExpression`0" priority="30" />
+      <Item value="MemberwiseClone`0" priority="31" />
+      <Item value="m" priority="63" />
+      <Item value="Order`0" priority="157" />
+      <Item value="o" priority="127" />
+      <Item value="List" priority="62" />
+      <Item value="ReferencedFields" priority="127" />
+      <Item value="const" priority="31" />
+      <Item value="null" priority="159" />
+      <Item value="List&lt;FieldWrapper&gt;" priority="86" />
+      <Item value="MappedFields" priority="95" />
+      <Item value="static" priority="31" />
+      <Item value="bool" priority="31" />
+      <Item value="type" priority="96" />
+      <Item value="assembly" priority="32" />
+      <Item value="Assembly`0" priority="31" />
+      <Item value="ConnectionFactoryTests" priority="28" />
+      <Item value="connectionFactory" priority="384" />
+      <Item value="DocumentMaps" priority="142" />
+      <Item value="CustomerMap" priority="178" />
+      <Item value="DocumentMapTests`0" priority="31" />
+      <Item value="CustomerMap`0" priority="31" />
+      <Item value="Id`0" priority="63" />
+      <Item value="Map`0" priority="63" />
+      <Item value="ConnectionFactory`0" priority="94" />
+      <Item value="Dictionary" priority="29" />
+      <Item value="object" priority="31" />
+      <Item value="documentMap" priority="160" />
+      <Item value="ConnectionFactory" priority="156" />
+      <Item value="OrderMap`0" priority="31" />
+      <Item value="Reference`0" priority="31" />
+      <Item value="connection" priority="191" />
+      <Item value="Connection" priority="28" />
+      <Item value="Connection`0" priority="31" />
+      <Item value="AssociatedType" priority="31" />
+      <Item value="associatedType" priority="159" />
+      <Item value="ArgumentNullException" priority="28" />
+      <Item value="foreach" priority="31" />
+      <Item value="CheckReferencesAreMapped`0" priority="31" />
+      <Item value="referencedField" priority="31" />
+      <Item value="Id" priority="31" />
+      <Item value="Address" priority="32" />
+      <Item value="Name" priority="32" />
+      <Item value="document" priority="31" />
+      <Item value="IDatabase`0" priority="30" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.VisualStudio.TestTools.UnitTesting.Assert">
+      <Item value="AreEqual`1" priority="161" />
+      <Item value="IsTrue`0" priority="53" />
+      <Item value="IsNotNull`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.MemberInfo">
+      <Item value="Name" priority="26" />
+      <Item value="DeclaringType" priority="26" />
+      <Item value="MemberType" priority="80" />
+      <Item value="ReflectedType" priority="26" />
+      <Item value="GetType`0" priority="26" />
+      <Item value="GetUnderlyingType`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FleuntMongo.Mapping.FieldWrapper">
+      <Item value="SetMember`0" priority="26" />
+      <Item value="SetMember`1" priority="53" />
+      <Item value="Type" priority="80" />
+      <Item value="Name" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentMongo.Test.Customer">
+      <Item value="GetType`0" priority="26" />
+      <Item value="Name" priority="81" />
+      <Item value="Id" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="GetProperty`0" priority="49" />
+      <Item value="IsPrimitive" priority="53" />
+      <Item value="IsValueType" priority="26" />
+      <Item value="IsPrimitiveOrString`0" priority="53" />
+      <Item value="Name" priority="26" />
+      <Item value="FullName" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.MemberTypes">
+      <Item value="GetTypeCode`0" priority="26" />
+      <Item value="GetType`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentMongo.Test.DocumentMap`1">
+      <Item value="IdWrapper" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FleuntMongo.Mapping.DocumentMap`1">
+      <Item value="Id`0" priority="26" />
+      <Item value="Map`0" priority="26" />
+      <Item value="MappedFields" priority="26" />
+      <Item value="GetReferencedFields`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Contains`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FleuntMongo.Mapping.IDocumentMap">
+      <Item value="GetType`0" priority="26" />
+      <Item value="ReferencedFields" priority="26" />
+      <Item value="GetReferencedFields`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentMongo.Repositories.ConnectionFactory">
+      <Item value="AddMap`1" priority="107" />
+      <Item value="DocumentMaps" priority="53" />
+      <Item value="GetConnection`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentMongo.Test.Order">
+      <Item value="Customer" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="ContainsKey`0" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <UnitTestSessions>
+    <Session>
+      <Name>Session #1</Name>
+      <Elements>
+        <UnitTestElement Provider="MSTest" Id="FluentMongo.Test.ConnectionFactoryTests" type="MsTestTestClassElement" TypeName="FluentMongo.Test.ConnectionFactoryTests" Project="101E218D-B66E-4DFB-83FE-79FDEA84EF9B" />
+        <UnitTestElement Provider="MSTest" Id="FluentMongo.Test.DocumentMapTests" type="MsTestTestClassElement" TypeName="FluentMongo.Test.DocumentMapTests" Project="101E218D-B66E-4DFB-83FE-79FDEA84EF9B" />
+        <UnitTestElement Provider="MSTest" Id="FluentMongo.Test.ConnectionFactoryTests.GetConnection_Creates_A_Connection_For_The_Specified_Type" ParentId="FluentMongo.Test.ConnectionFactoryTests" type="MsTestTestMethodElement" MethodName="GetConnection_Creates_A_Connection_For_The_Specified_Type" Project="101E218D-B66E-4DFB-83FE-79FDEA84EF9B" />
+        <UnitTestElement Provider="MSTest" Id="FluentMongo.Test.ConnectionFactoryTests.Make_Sure_DocumentMap_Is_Added_When_Calling_AddMap" ParentId="FluentMongo.Test.ConnectionFactoryTests" type="MsTestTestMethodElement" MethodName="Make_Sure_DocumentMap_Is_Added_When_Calling_AddMap" Project="101E218D-B66E-4DFB-83FE-79FDEA84EF9B" />
+        <UnitTestElement Provider="MSTest" Id="FluentMongo.Test.DocumentMapTests.When_Given_A_NonPrimitive_Id_Type_Throws_Exception" ParentId="FluentMongo.Test.DocumentMapTests" type="MsTestTestMethodElement" MethodName="When_Given_A_NonPrimitive_Id_Type_Throws_Exception" Project="101E218D-B66E-4DFB-83FE-79FDEA84EF9B" />
+        <UnitTestElement Provider="MSTest" Id="FluentMongo.Test.DocumentMapTests.When_Referenced_It_Is_Added_To_Reference_Fields" ParentId="FluentMongo.Test.DocumentMapTests" type="MsTestTestMethodElement" MethodName="When_Referenced_It_Is_Added_To_Reference_Fields" Project="101E218D-B66E-4DFB-83FE-79FDEA84EF9B" />
+        <UnitTestElement Provider="MSTest" Id="FluentMongo.Test.DocumentMapTests.When_Set_IdField_It_Is_Set_As_Primary_Key" ParentId="FluentMongo.Test.DocumentMapTests" type="MsTestTestMethodElement" MethodName="When_Set_IdField_It_Is_Set_As_Primary_Key" Project="101E218D-B66E-4DFB-83FE-79FDEA84EF9B" />
+        <UnitTestElement Provider="MSTest" Id="FluentMongo.Test.DocumentMapTests.When_Set_Mapped_Fields_It_Is_Added_To_Primitive_Fields" ParentId="FluentMongo.Test.DocumentMapTests" type="MsTestTestMethodElement" MethodName="When_Set_Mapped_Fields_It_Is_Added_To_Primitive_Fields" Project="101E218D-B66E-4DFB-83FE-79FDEA84EF9B" />
+      </Elements>
+    </Session>
+  </UnitTestSessions>
+</Configuration>

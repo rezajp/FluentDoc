@@ -1,0 +1,10 @@
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\FluentMongo\FluentMongo.Extensions\bin\Debug\FleuntDoc.Extensions.dll
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\FluentMongo\FluentMongo.Extensions\bin\Debug\FleuntDoc.Extensions.pdb
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\FluentMongo\FluentMongo.Extensions\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\FluentMongo\FluentMongo.Extensions\obj\Debug\FleuntDoc.Extensions.dll
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\FluentMongo\FluentMongo.Extensions\obj\Debug\FleuntDoc.Extensions.pdb
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\FluentDoc\FluentDoc.Extensions\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\FluentDoc\FluentDoc.Extensions\bin\Debug\FluentDoc.Extensions.dll
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\FluentDoc\FluentDoc.Extensions\bin\Debug\FluentDoc.Extensions.pdb
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\FluentDoc\FluentDoc.Extensions\obj\Debug\FluentDoc.Extensions.dll
+C:\Users\panahr\Documents\Visual Studio 2010\Projects\FluentDoc\FluentDoc.Extensions\obj\Debug\FluentDoc.Extensions.pdb
