@@ -1,18 +1,16 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Linq.Expressions;
-using System.Text;
 using System.Reflection;
+using FleuntDoc.Extensions;
 
-namespace FleuntMongo.Mapping
+namespace FleuntDoc.Mapping
 {
     public class FieldWrapper
     {
         public MemberInfo Member { get; protected set; }
         public FieldWrapper SetMember<T>(Expression<Func<T, object>> expression) where T : class 
         {
-            Member = expression.GetMemberInfo();
+            Member = expression.GetMemberInfo<T>();
             return this;
         }
 

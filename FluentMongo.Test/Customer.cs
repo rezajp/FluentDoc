@@ -1,4 +1,4 @@
-namespace FluentMongo.Test
+namespace FleuntDoc.Test
 {
     public class Customer
     {

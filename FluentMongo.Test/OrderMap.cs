@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using FleuntMongo.Mapping;
+﻿using FleuntDoc.Mapping;
 
-namespace FluentMongo.Test
+namespace FleuntDoc.Test
 {
     public class OrderMap:DocumentMap<Order>
     {

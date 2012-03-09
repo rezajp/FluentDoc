@@ -1,12 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using FleuntMongo.Mapping;
-using FluentMongo.Repositories.Documents;
-using FluentMongo.Repositories.Mappers;
+using FleuntDoc.Mapping;
+using FleuntDoc.Repositories.Documents;
+using FleuntDoc.Repositories.Mappers;
 
-namespace FluentMongo.Repositories
+namespace FleuntDoc.Repositories
 {
     public class ConnectionFactory
     {

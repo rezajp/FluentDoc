@@ -1,11 +1,9 @@
-﻿using System.Text;
-using System.Collections.Generic;
+﻿using System;
 using System.Linq;
-using FleuntMongo.Mapping;
+using FleuntDoc.Mapping;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
 
-namespace FluentMongo.Test
+namespace FleuntDoc.Test
 {
     /// <summary>
     /// Summary description for IdFieldTests

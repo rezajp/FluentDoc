@@ -1,11 +1,7 @@
-﻿using System;
-using System.Text;
-using System.Collections.Generic;
-using System.Linq;
-using FleuntMongo.Mapping;
+﻿using FleuntDoc.Mapping;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace FluentMongo.Test
+namespace FleuntDoc.Test
 {
     [TestClass]
     public class FieldWrapperTests

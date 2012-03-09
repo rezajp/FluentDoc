@@ -1,13 +1,8 @@
-﻿using System;
-using System.Text;
-using System.Collections.Generic;
-using System.Linq;
+﻿using FleuntDoc.Mapping;
+using FleuntDoc.Repositories;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System.Reflection;
-using FluentMongo.Repositories;
-using FleuntMongo.Mapping;
 
-namespace FluentMongo.Test
+namespace FleuntDoc.Test
 {
     [TestClass]
     public class ConnectionFactoryTests

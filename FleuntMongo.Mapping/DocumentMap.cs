@@ -1,8 +1,9 @@
 using System;
 using System.Collections.Generic;
 using System.Linq.Expressions;
+using FleuntDoc.Extensions;
 
-namespace FleuntMongo.Mapping
+namespace FleuntDoc.Mapping
 {
     public interface IDocumentMap
     {
@@ -39,7 +40,7 @@ namespace FleuntMongo.Mapping
         public FieldWrapper Map(Expression<Func<T, object>> expression)
         {
             var field = new FieldWrapper().SetMember(expression);
-            if (!field.Type.IsPrimitiveOrString())
+            if (!ReflectionExtensions.IsPrimitiveOrString(field.Type))
                 throw new NotSupportedException("The Map method is for primitive types");
             if(MappedFields==null)
                 MappedFields= new List<FieldWrapper>();
@@ -50,7 +51,7 @@ namespace FleuntMongo.Mapping
         public FieldWrapper Reference(Expression<Func<T, object>> expression)
         {
             var field = new FieldWrapper().SetMember(expression);
-            if (field.Type.IsPrimitiveOrString())
+            if (ReflectionExtensions.IsPrimitiveOrString(field.Type))
                 throw new NotSupportedException("The Reference method is for non-primitive types");
             if(ReferencedFields==null)
             {
