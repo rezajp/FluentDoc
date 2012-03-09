@@ -40,9 +40,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Connection.cs" />
     <Compile Include="ConnectionFactory.cs" />
-    <Compile Include="Database.cs" />
-    <Compile Include="IDatabase.cs" />
+    <Compile Include="Documents\DocumentStore.cs" />
+    <Compile Include="Documents\IDocument.cs" />
+    <Compile Include="Documents\IDocumentStore.cs" />
+    <Compile Include="Mappers\IMapper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

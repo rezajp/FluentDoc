@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using FleuntMongo.Mapping;
+using FluentMongo.Repositories.Documents;
+using FluentMongo.Repositories.Mappers;
 
 namespace FluentMongo.Repositories
 {
@@ -10,11 +12,13 @@ namespace FluentMongo.Repositories
     {
         public Dictionary<Type, IDocumentMap> DocumentMaps { get; set; }
 
-        public IDatabase Database
+        public IDocumentStore DocumentStore
         {
             get { throw new NotImplementedException(); }
             set { throw new NotImplementedException(); }
         }
+
+        public Dictionary<Type, IMapper> Mappers { get; set; }
 
         public ConnectionFactory AddMap<T>(IDocumentMap documentMap) where T : class
         {
@@ -30,47 +34,10 @@ namespace FluentMongo.Repositories
             var connection = new Connection(typeof (T),this);
             return connection;
         }
-    }
 
-    public class Connection
-    {
-        public Type AssociatedType { get; set; }
-        public ConnectionFactory ConnectionFactory { get; set; }
-        public Connection(Type associatedType,ConnectionFactory connectionFactory)
+        public IMapper GetMappers<T>() where T:class
         {
-            AssociatedType = associatedType;
-            ConnectionFactory = connectionFactory;
-            CheckReferencesAreMapped(associatedType);
-        }
-
-        private void CheckReferencesAreMapped(Type associatedType)
-        {
-            var documentMap = ConnectionFactory.DocumentMaps.ContainsKey(associatedType)
-                                  ? ConnectionFactory.DocumentMaps[associatedType]
-                                  : null;
-            if (documentMap == null)
-                throw new ArgumentNullException("Could not find mapping for " + associatedType.FullName);
-            foreach (var referencedField in documentMap.GetReferencedFields())
-            {
-                CheckReferencesAreMapped(referencedField.Type);
-            }
-        }
-
-        public void Save(object entity)
-        {
-            throw new NotImplementedException();
-        }
-
-
-        public T Get<T>(object id)
-        {
-            var document = ConnectionFactory.Database.GetById(id);
-            return GetMapper<T>().Map(document);
-        }
-
-        private IMapper GetMapper<T>()
-        {
-            throw new NotImplementedException();
+            return Mappers.ContainsKey(typeof (T)) ? Mappers[typeof (T)] : null;
         }
     }
 }
