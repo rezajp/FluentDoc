@@ -1,7 +1,0 @@
-c:\users\panahr\documents\visual studio 2010\Projects\FluentMongo\FleuntMongo.Mapping\bin\Debug\FleuntMongo.Mapping.dll
-c:\users\panahr\documents\visual studio 2010\Projects\FluentMongo\FleuntMongo.Mapping\bin\Debug\FleuntMongo.Mapping.pdb
-c:\users\panahr\documents\visual studio 2010\Projects\FluentMongo\FleuntMongo.Mapping\obj\Debug\ResolveAssemblyReference.cache
-c:\users\panahr\documents\visual studio 2010\Projects\FluentMongo\FleuntMongo.Mapping\obj\Debug\FleuntMongo.Mapping.dll
-c:\users\panahr\documents\visual studio 2010\Projects\FluentMongo\FleuntMongo.Mapping\obj\Debug\FleuntMongo.Mapping.pdb
-c:\users\panahr\documents\visual studio 2010\Projects\FluentMongo\FleuntMongo.Mapping\bin\Debug\FluentMongo.Extensions.dll
-c:\users\panahr\documents\visual studio 2010\Projects\FluentMongo\FleuntMongo.Mapping\bin\Debug\FluentMongo.Extensions.pdb

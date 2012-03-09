@@ -1,5 +1,0 @@
-c:\users\panahr\documents\visual studio 2010\Projects\FluentMongo\FluentMongo.Extensions\bin\Debug\FluentMongo.Extensions.dll
-c:\users\panahr\documents\visual studio 2010\Projects\FluentMongo\FluentMongo.Extensions\bin\Debug\FluentMongo.Extensions.pdb
-c:\users\panahr\documents\visual studio 2010\Projects\FluentMongo\FluentMongo.Extensions\obj\Debug\ResolveAssemblyReference.cache
-c:\users\panahr\documents\visual studio 2010\Projects\FluentMongo\FluentMongo.Extensions\obj\Debug\FluentMongo.Extensions.dll
-c:\users\panahr\documents\visual studio 2010\Projects\FluentMongo\FluentMongo.Extensions\obj\Debug\FluentMongo.Extensions.pdb

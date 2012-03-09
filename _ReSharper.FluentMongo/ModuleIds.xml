@@ -1,6 +1,0 @@
-<Modules>
-  <Module PersistentId="101E218D-B66E-4DFB-83FE-79FDEA84EF9B" ModuleId="FluentMongo.Test" />
-  <Module PersistentId="ED6A369E-8B18-4FC9-BE85-57CAEA8BDD8F" ModuleId="FleuntMongo.Mapping" />
-  <Module PersistentId="FBA3DA01-803C-4E98-AAF0-B7B6277C6AA2" ModuleId="FluentMongo.Extensions" />
-  <Module PersistentId="8B0835BA-7920-444C-B092-0D2B13326B9B" ModuleId="FluentMongo.Repositories" />
-</Modules>
