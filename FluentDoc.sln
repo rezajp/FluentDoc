@@ -16,6 +16,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentDoc.Extensions", "Flu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentDoc.Repositories", "FluentDoc.Repositories\FluentDoc.Repositories.csproj", "{8B0835BA-7920-444C-B092-0D2B13326B9B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentDoc.Mongo", "FluentDoc.Mongo\FluentDoc.Mongo.csproj", "{78F1B51F-44D8-4AAD-AD17-9F18F576428B}"
+EndProject
 Global
 	GlobalSection(TestCaseManagementSettings) = postSolution
 		CategoryFile = FluentDoc.vsmdi
@@ -41,6 +43,10 @@ Global
 		{8B0835BA-7920-444C-B092-0D2B13326B9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B0835BA-7920-444C-B092-0D2B13326B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B0835BA-7920-444C-B092-0D2B13326B9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78F1B51F-44D8-4AAD-AD17-9F18F576428B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78F1B51F-44D8-4AAD-AD17-9F18F576428B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78F1B51F-44D8-4AAD-AD17-9F18F576428B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78F1B51F-44D8-4AAD-AD17-9F18F576428B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

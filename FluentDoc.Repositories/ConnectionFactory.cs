@@ -10,12 +10,7 @@ namespace FluentDoc.Repositories
     {
         public Dictionary<Type, IDocumentMap> DocumentMaps { get; set; }
 
-        public IDocumentStore DocumentStore
-        {
-            get { throw new NotImplementedException(); }
-            set { throw new NotImplementedException(); }
-        }
-
+        public IDocumentStore DocumentStore { get; set; }
         public Dictionary<Type, IMapper> Mappers { get; set; }
 
         public ConnectionFactory AddMap<T>(IDocumentMap documentMap) where T : class

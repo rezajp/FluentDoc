@@ -3,4 +3,5 @@
   <Module PersistentId="ED6A369E-8B18-4FC9-BE85-57CAEA8BDD8F" ModuleId="FleuntMongo.Mapping" />
   <Module PersistentId="FBA3DA01-803C-4E98-AAF0-B7B6277C6AA2" ModuleId="FluentMongo.Extensions" />
   <Module PersistentId="8B0835BA-7920-444C-B092-0D2B13326B9B" ModuleId="FluentMongo.Repositories" />
+  <Module PersistentId="78F1B51F-44D8-4AAD-AD17-9F18F576428B" ModuleId="FluentDoc.Mongo" />
 </Modules>
