@@ -15,12 +15,13 @@
       <File id="101E218D-B66E-4DFB-83FE-79FDEA84EF9B/f:ConnectionFactoryTests.cs" caret="977" fromTop="22" />
       <File id="101E218D-B66E-4DFB-83FE-79FDEA84EF9B/f:ConnectionTests.cs" caret="1229" fromTop="17" />
       <File id="8B0835BA-7920-444C-B092-0D2B13326B9B/d:Mappers/f:IMapper.cs" caret="123" fromTop="5" />
-      <File id="78F1B51F-44D8-4AAD-AD17-9F18F576428B/f:MongoDocumentWrapper.cs" caret="152" fromTop="5" />
+      <File id="8B0835BA-7920-444C-B092-0D2B13326B9B/d:Documents/f:IDocument.cs" caret="162" fromTop="6" />
+      <File id="78F1B51F-44D8-4AAD-AD17-9F18F576428B/f:MongoDocumentWrapper.cs" caret="398" fromTop="13" />
+      <File id="8B0835BA-7920-444C-B092-0D2B13326B9B/d:Documents/f:DocumentStore.cs" caret="0" fromTop="0" />
+      <File id="8B0835BA-7920-444C-B092-0D2B13326B9B/d:Documents/f:IDocumentStore.cs" caret="0" fromTop="0" />
+      <File id="78F1B51F-44D8-4AAD-AD17-9F18F576428B/f:MongoDocumentStore.cs" caret="1467" fromTop="32" />
     </RecentFiles>
     <RecentEdits>
-      <File id="FBA3DA01-803C-4E98-AAF0-B7B6277C6AA2/f:ReflectionExtensions.cs" caret="362" fromTop="10" />
-      <File id="101E218D-B66E-4DFB-83FE-79FDEA84EF9B/f:ConnectionFactoryTests.cs" caret="1420" fromTop="28" />
-      <File id="8B0835BA-7920-444C-B092-0D2B13326B9B/f:ConnectionFactory.cs" caret="627" fromTop="13" />
       <File id="101E218D-B66E-4DFB-83FE-79FDEA84EF9B/f:ConnectionFactoryTests.cs" caret="1271" fromTop="22" />
       <File id="101E218D-B66E-4DFB-83FE-79FDEA84EF9B/f:OrderMap.cs" caret="347" fromTop="14" />
       <File id="101E218D-B66E-4DFB-83FE-79FDEA84EF9B/f:OrderMap.cs" caret="370" fromTop="13" />
@@ -42,13 +43,21 @@
       <File id="8B0835BA-7920-444C-B092-0D2B13326B9B/f:ConnectionFactory.cs" caret="371" fromTop="8" />
       <File id="101E218D-B66E-4DFB-83FE-79FDEA84EF9B/f:ConnectionTests.cs" caret="612" fromTop="9" />
       <File id="101E218D-B66E-4DFB-83FE-79FDEA84EF9B/f:ConnectionTests.cs" caret="1236" fromTop="17" />
-      <File id="78F1B51F-44D8-4AAD-AD17-9F18F576428B/f:MongoDocumentWrapper.cs" caret="343" fromTop="13" />
+      <File id="8B0835BA-7920-444C-B092-0D2B13326B9B/d:Documents/f:IDocument.cs" caret="162" fromTop="6" />
+      <File id="78F1B51F-44D8-4AAD-AD17-9F18F576428B/f:MongoDocumentWrapper.cs" caret="225" fromTop="9" />
+      <File id="78F1B51F-44D8-4AAD-AD17-9F18F576428B/f:MongoDocumentWrapper.cs" caret="398" fromTop="13" />
+      <File id="8B0835BA-7920-444C-B092-0D2B13326B9B/d:Documents/f:DocumentStore.cs" caret="0" fromTop="0" />
+      <File id="78F1B51F-44D8-4AAD-AD17-9F18F576428B/f:MongoDocumentStore.cs" caret="594" fromTop="20" />
+      <File id="78F1B51F-44D8-4AAD-AD17-9F18F576428B/f:MongoDocumentStore.cs" caret="294" fromTop="11" />
+      <File id="78F1B51F-44D8-4AAD-AD17-9F18F576428B/f:MongoDocumentStore.cs" caret="598" fromTop="20" />
+      <File id="78F1B51F-44D8-4AAD-AD17-9F18F576428B/f:MongoDocumentStore.cs" caret="459" fromTop="15" />
+      <File id="78F1B51F-44D8-4AAD-AD17-9F18F576428B/f:MongoDocumentStore.cs" caret="1364" fromTop="30" />
     </RecentEdits>
   </RecentFiles>
   <CompletionStatisticsManager>
     <ItemStatistics item="CSharpCodeCompletionContext">
       <Item value="var" priority="447" />
-      <Item value="new" priority="831" />
+      <Item value="new" priority="927" />
       <Item value="fieldWrapper" priority="63" />
       <Item value="Assert`0" priority="319" />
       <Item value="public" priority="575" />
@@ -57,9 +66,9 @@
       <Item value="protected" priority="128" />
       <Item value="MemberInfo`0" priority="62" />
       <Item value="prop" priority="223" />
-      <Item value="return" priority="319" />
+      <Item value="return" priority="351" />
       <Item value="this" priority="159" />
-      <Item value="string" priority="219" />
+      <Item value="string" priority="250" />
       <Item value="Member" priority="63" />
       <Item value="internal" priority="30" />
       <Item value="class" priority="253" />
@@ -70,12 +79,12 @@
       <Item value="void" priority="190" />
       <Item value="FieldWrapper" priority="86" />
       <Item value="where" priority="31" />
-      <Item value="T`0" priority="125" />
+      <Item value="T`0" priority="219" />
       <Item value="expression" priority="31" />
       <Item value="System" priority="31" />
       <Item value="c" priority="191" />
-      <Item value="typeof" priority="287" />
-      <Item value="Type`0" priority="381" />
+      <Item value="typeof" priority="319" />
+      <Item value="Type`0" priority="443" />
       <Item value="DocumentMap&lt;Customer&gt;" priority="28" />
       <Item value="customerMap" priority="255" />
       <Item value="DocumentMap" priority="220" />
@@ -115,14 +124,14 @@
       <Item value="Map`0" priority="63" />
       <Item value="ConnectionFactory`0" priority="94" />
       <Item value="Dictionary" priority="29" />
-      <Item value="object" priority="31" />
+      <Item value="object" priority="62" />
       <Item value="documentMap" priority="160" />
       <Item value="ConnectionFactory" priority="156" />
       <Item value="OrderMap`0" priority="31" />
       <Item value="Reference`0" priority="31" />
       <Item value="connection" priority="191" />
       <Item value="Connection" priority="28" />
-      <Item value="Connection`0" priority="31" />
+      <Item value="Connection`0" priority="58" />
       <Item value="AssociatedType" priority="31" />
       <Item value="associatedType" priority="159" />
       <Item value="ArgumentNullException" priority="28" />
@@ -140,11 +149,22 @@
       <Item value="Mock`0" priority="29" />
       <Item value="IDocumentStore`0" priority="30" />
       <Item value="documentStoreMock" priority="31" />
-      <Item value="MongoDB" priority="31" />
-      <Item value="Driver" priority="26" />
-      <Item value="Document`0" priority="26" />
-      <Item value="Document" priority="32" />
+      <Item value="MongoDB" priority="122" />
+      <Item value="Driver" priority="80" />
+      <Item value="Document`0" priority="58" />
+      <Item value="Document" priority="61" />
       <Item value="MongoDocument" priority="31" />
+      <Item value="Database`0" priority="58" />
+      <Item value="MongoDatabase" priority="31" />
+      <Item value="IMongoCollection`0" priority="63" />
+      <Item value="MongoCollection" priority="64" />
+      <Item value="Mongo" priority="63" />
+      <Item value="Protocol" priority="26" />
+      <Item value="Configuration" priority="26" />
+      <Item value="Connections" priority="26" />
+      <Item value="NewsStyleUriParser`0" priority="26" />
+      <Item value="Bson" priority="26" />
+      <Item value="BsonValue`0" priority="26" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@Microsoft.VisualStudio.TestTools.UnitTesting.Assert">
       <Item value="AreEqual`1" priority="161" />
@@ -175,7 +195,7 @@
       <Item value="IsPrimitive" priority="53" />
       <Item value="IsValueType" priority="26" />
       <Item value="IsPrimitiveOrString`0" priority="53" />
-      <Item value="Name" priority="26" />
+      <Item value="Name" priority="53" />
       <Item value="FullName" priority="26" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Reflection.MemberTypes">
@@ -228,6 +248,19 @@
     </ItemStatistics>
     <ItemStatistics item="Qualified:MongoDB.Driver.Document">
       <Item value="Update`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MongoDB.Driver.Database">
+      <Item value="GetCollection`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MongoDB.Driver.IMongoCollection">
+      <Item value="FindOne`0" priority="53" />
+      <Item value="Find`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MongoDB.Driver.MongoDatabase">
+      <Item value="GetCollection`1" priority="45" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MongoDB.Driver.MongoCollection">
+      <Item value="FindOneByIdAs`1" priority="26" />
     </ItemStatistics>
   </CompletionStatisticsManager>
   <NAntValidationSettings>
